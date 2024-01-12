@@ -13,7 +13,7 @@
 ```shell
 $ git clone {repo addr}
 $ cd {repo addr}
-# python hello.py
+$ python hello.py
 ```
 
 ```python
